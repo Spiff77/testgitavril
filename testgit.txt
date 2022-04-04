@@ -1,5 +1,6 @@
 Bonjour et bienvenue sur mon fichier. Les participants de la formations sont:
 	- Amani
 	- Thomas
+	- Bertrand
 	- Anisse
 	- Anthony
