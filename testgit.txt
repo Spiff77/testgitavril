@@ -1,3 +1,4 @@
 Bonjour et bienvenue sur mon fichier. Les participants de la formations sont:
 	- Amani
 	- Anisse
+	- Anthony
